@@ -6,7 +6,7 @@ using System.Web.Http;
 using StarBox3.Models;
 using StarBox3.Dtos;
 
-namespace Vidly.Controllers.Api
+namespace StarBox3.Controllers.Api
 {
     public class MoviesController : ApiController
     {
