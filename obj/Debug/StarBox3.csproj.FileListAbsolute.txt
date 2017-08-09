@@ -1,0 +1,220 @@
+c:\users\nett\documents\visual studio 2017\Projects\StarBox3\StarBox3\obj\Debug\StarBox3.csprojResolveAssemblyReference.cache
+c:\users\nett\documents\visual studio 2017\Projects\StarBox3\StarBox3\bin\ApplicationInsights.config
+c:\users\nett\documents\visual studio 2017\Projects\StarBox3\StarBox3\bin\roslyn\csc.exe
+c:\users\nett\documents\visual studio 2017\Projects\StarBox3\StarBox3\bin\roslyn\csc.exe.config
+c:\users\nett\documents\visual studio 2017\Projects\StarBox3\StarBox3\bin\roslyn\csc.rsp
+c:\users\nett\documents\visual studio 2017\Projects\StarBox3\StarBox3\bin\roslyn\csi.exe
+c:\users\nett\documents\visual studio 2017\Projects\StarBox3\StarBox3\bin\roslyn\csi.rsp
+c:\users\nett\documents\visual studio 2017\Projects\StarBox3\StarBox3\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\nett\documents\visual studio 2017\Projects\StarBox3\StarBox3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\nett\documents\visual studio 2017\Projects\StarBox3\StarBox3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+c:\users\nett\documents\visual studio 2017\Projects\StarBox3\StarBox3\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\nett\documents\visual studio 2017\Projects\StarBox3\StarBox3\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+c:\users\nett\documents\visual studio 2017\Projects\StarBox3\StarBox3\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\nett\documents\visual studio 2017\Projects\StarBox3\StarBox3\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\nett\documents\visual studio 2017\Projects\StarBox3\StarBox3\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+c:\users\nett\documents\visual studio 2017\Projects\StarBox3\StarBox3\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+c:\users\nett\documents\visual studio 2017\Projects\StarBox3\StarBox3\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\nett\documents\visual studio 2017\Projects\StarBox3\StarBox3\bin\roslyn\System.AppContext.dll
+c:\users\nett\documents\visual studio 2017\Projects\StarBox3\StarBox3\bin\roslyn\System.Collections.Immutable.dll
+c:\users\nett\documents\visual studio 2017\Projects\StarBox3\StarBox3\bin\roslyn\System.Diagnostics.StackTrace.dll
+c:\users\nett\documents\visual studio 2017\Projects\StarBox3\StarBox3\bin\roslyn\System.IO.FileSystem.dll
+c:\users\nett\documents\visual studio 2017\Projects\StarBox3\StarBox3\bin\roslyn\System.IO.FileSystem.Primitives.dll
+c:\users\nett\documents\visual studio 2017\Projects\StarBox3\StarBox3\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\nett\documents\visual studio 2017\Projects\StarBox3\StarBox3\bin\roslyn\vbc.exe
+c:\users\nett\documents\visual studio 2017\Projects\StarBox3\StarBox3\bin\roslyn\vbc.exe.config
+c:\users\nett\documents\visual studio 2017\Projects\StarBox3\StarBox3\bin\roslyn\vbc.rsp
+c:\users\nett\documents\visual studio 2017\Projects\StarBox3\StarBox3\bin\roslyn\VBCSCompiler.exe
+c:\users\nett\documents\visual studio 2017\Projects\StarBox3\StarBox3\bin\roslyn\VBCSCompiler.exe.config
+c:\users\nett\documents\visual studio 2017\Projects\StarBox3\StarBox3\bin\StarBox3.dll.config
+c:\users\nett\documents\visual studio 2017\Projects\StarBox3\StarBox3\bin\StarBox3.dll
+c:\users\nett\documents\visual studio 2017\Projects\StarBox3\StarBox3\bin\StarBox3.pdb
+c:\users\nett\documents\visual studio 2017\Projects\StarBox3\StarBox3\bin\Antlr3.Runtime.dll
+c:\users\nett\documents\visual studio 2017\Projects\StarBox3\StarBox3\bin\EntityFramework.dll
+c:\users\nett\documents\visual studio 2017\Projects\StarBox3\StarBox3\bin\EntityFramework.SqlServer.dll
+c:\users\nett\documents\visual studio 2017\Projects\StarBox3\StarBox3\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\nett\documents\visual studio 2017\Projects\StarBox3\StarBox3\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\nett\documents\visual studio 2017\Projects\StarBox3\StarBox3\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\nett\documents\visual studio 2017\Projects\StarBox3\StarBox3\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\nett\documents\visual studio 2017\Projects\StarBox3\StarBox3\bin\Microsoft.AI.Web.dll
+c:\users\nett\documents\visual studio 2017\Projects\StarBox3\StarBox3\bin\Microsoft.AI.WindowsServer.dll
+c:\users\nett\documents\visual studio 2017\Projects\StarBox3\StarBox3\bin\Microsoft.ApplicationInsights.dll
+c:\users\nett\documents\visual studio 2017\Projects\StarBox3\StarBox3\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\nett\documents\visual studio 2017\Projects\StarBox3\StarBox3\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\nett\documents\visual studio 2017\Projects\StarBox3\StarBox3\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\nett\documents\visual studio 2017\Projects\StarBox3\StarBox3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\nett\documents\visual studio 2017\Projects\StarBox3\StarBox3\bin\Microsoft.Owin.dll
+c:\users\nett\documents\visual studio 2017\Projects\StarBox3\StarBox3\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\nett\documents\visual studio 2017\Projects\StarBox3\StarBox3\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\nett\documents\visual studio 2017\Projects\StarBox3\StarBox3\bin\Microsoft.Owin.Security.dll
+c:\users\nett\documents\visual studio 2017\Projects\StarBox3\StarBox3\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\nett\documents\visual studio 2017\Projects\StarBox3\StarBox3\bin\Microsoft.Owin.Security.Google.dll
+c:\users\nett\documents\visual studio 2017\Projects\StarBox3\StarBox3\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\nett\documents\visual studio 2017\Projects\StarBox3\StarBox3\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\nett\documents\visual studio 2017\Projects\StarBox3\StarBox3\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\nett\documents\visual studio 2017\Projects\StarBox3\StarBox3\bin\Microsoft.Web.Infrastructure.dll
+c:\users\nett\documents\visual studio 2017\Projects\StarBox3\StarBox3\bin\Newtonsoft.Json.dll
+c:\users\nett\documents\visual studio 2017\Projects\StarBox3\StarBox3\bin\Owin.dll
+c:\users\nett\documents\visual studio 2017\Projects\StarBox3\StarBox3\bin\System.Web.Helpers.dll
+c:\users\nett\documents\visual studio 2017\Projects\StarBox3\StarBox3\bin\System.Web.Mvc.dll
+c:\users\nett\documents\visual studio 2017\Projects\StarBox3\StarBox3\bin\System.Web.Optimization.dll
+c:\users\nett\documents\visual studio 2017\Projects\StarBox3\StarBox3\bin\System.Web.Razor.dll
+c:\users\nett\documents\visual studio 2017\Projects\StarBox3\StarBox3\bin\System.Web.WebPages.Deployment.dll
+c:\users\nett\documents\visual studio 2017\Projects\StarBox3\StarBox3\bin\System.Web.WebPages.dll
+c:\users\nett\documents\visual studio 2017\Projects\StarBox3\StarBox3\bin\System.Web.WebPages.Razor.dll
+c:\users\nett\documents\visual studio 2017\Projects\StarBox3\StarBox3\bin\WebGrease.dll
+c:\users\nett\documents\visual studio 2017\Projects\StarBox3\StarBox3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\nett\documents\visual studio 2017\Projects\StarBox3\StarBox3\bin\System.Web.Helpers.xml
+c:\users\nett\documents\visual studio 2017\Projects\StarBox3\StarBox3\bin\System.Web.Mvc.xml
+c:\users\nett\documents\visual studio 2017\Projects\StarBox3\StarBox3\bin\System.Web.Optimization.xml
+c:\users\nett\documents\visual studio 2017\Projects\StarBox3\StarBox3\bin\System.Web.Razor.xml
+c:\users\nett\documents\visual studio 2017\Projects\StarBox3\StarBox3\bin\System.Web.WebPages.xml
+c:\users\nett\documents\visual studio 2017\Projects\StarBox3\StarBox3\bin\System.Web.WebPages.Deployment.xml
+c:\users\nett\documents\visual studio 2017\Projects\StarBox3\StarBox3\bin\System.Web.WebPages.Razor.xml
+c:\users\nett\documents\visual studio 2017\Projects\StarBox3\StarBox3\bin\Antlr3.Runtime.pdb
+c:\users\nett\documents\visual studio 2017\Projects\StarBox3\StarBox3\bin\Newtonsoft.Json.xml
+c:\users\nett\documents\visual studio 2017\Projects\StarBox3\StarBox3\bin\EntityFramework.xml
+c:\users\nett\documents\visual studio 2017\Projects\StarBox3\StarBox3\bin\EntityFramework.SqlServer.xml
+c:\users\nett\documents\visual studio 2017\Projects\StarBox3\StarBox3\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\nett\documents\visual studio 2017\Projects\StarBox3\StarBox3\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\nett\documents\visual studio 2017\Projects\StarBox3\StarBox3\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\nett\documents\visual studio 2017\Projects\StarBox3\StarBox3\bin\Microsoft.Owin.xml
+c:\users\nett\documents\visual studio 2017\Projects\StarBox3\StarBox3\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\nett\documents\visual studio 2017\Projects\StarBox3\StarBox3\bin\Microsoft.Owin.Security.xml
+c:\users\nett\documents\visual studio 2017\Projects\StarBox3\StarBox3\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\nett\documents\visual studio 2017\Projects\StarBox3\StarBox3\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\nett\documents\visual studio 2017\Projects\StarBox3\StarBox3\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\nett\documents\visual studio 2017\Projects\StarBox3\StarBox3\bin\Microsoft.Owin.Security.Google.xml
+c:\users\nett\documents\visual studio 2017\Projects\StarBox3\StarBox3\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\nett\documents\visual studio 2017\Projects\StarBox3\StarBox3\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\nett\documents\visual studio 2017\Projects\StarBox3\StarBox3\bin\Microsoft.ApplicationInsights.xml
+c:\users\nett\documents\visual studio 2017\Projects\StarBox3\StarBox3\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\nett\documents\visual studio 2017\Projects\StarBox3\StarBox3\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\nett\documents\visual studio 2017\Projects\StarBox3\StarBox3\bin\Microsoft.AI.WindowsServer.xml
+c:\users\nett\documents\visual studio 2017\Projects\StarBox3\StarBox3\bin\Microsoft.AI.Web.xml
+c:\users\nett\documents\visual studio 2017\Projects\StarBox3\StarBox3\obj\Debug\StarBox3.dll
+c:\users\nett\documents\visual studio 2017\Projects\StarBox3\StarBox3\obj\Debug\StarBox3.pdb
+c:\users\nett\documents\visual studio 2017\Projects\StarBox3\StarBox3\obj\Debug\StarBox3.Migrations.InitialModel.resources
+c:\users\nett\documents\visual studio 2017\Projects\StarBox3\StarBox3\obj\Debug\StarBox3.csproj.GenerateResource.Cache
+c:\users\nett\documents\visual studio 2017\Projects\StarBox3\StarBox3\obj\Debug\StarBox3.Migrations.AddIsSubscribedToCustomer.resources
+c:\users\nett\documents\visual studio 2017\Projects\StarBox3\StarBox3\obj\Debug\StarBox3.Migrations.AddMembershipType.resources
+c:\users\nett\documents\visual studio 2017\Projects\StarBox3\StarBox3\obj\Debug\StarBox3.Migrations.PopulateMembershipTypes.resources
+c:\users\nett\documents\visual studio 2017\Projects\StarBox3\StarBox3\obj\Debug\StarBox3.Migrations.ApplyAnnotationsToCustomerName.resources
+c:\users\nett\documents\visual studio 2017\Projects\StarBox3\StarBox3\obj\Debug\StarBox3.Migrations.AddNameToMembershipType.resources
+c:\users\nett\documents\visual studio 2017\Projects\StarBox3\StarBox3\obj\Debug\StarBox3.Migrations.SetNameOfMemberShipTypes.resources
+D:\StarBox3\StarBox3\bin\ApplicationInsights.config
+D:\StarBox3\StarBox3\bin\roslyn\csc.exe
+D:\StarBox3\StarBox3\bin\roslyn\csc.exe.config
+D:\StarBox3\StarBox3\bin\roslyn\csc.rsp
+D:\StarBox3\StarBox3\bin\roslyn\csi.exe
+D:\StarBox3\StarBox3\bin\roslyn\csi.rsp
+D:\StarBox3\StarBox3\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\StarBox3\StarBox3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\StarBox3\StarBox3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\StarBox3\StarBox3\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\StarBox3\StarBox3\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\StarBox3\StarBox3\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\StarBox3\StarBox3\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\StarBox3\StarBox3\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\StarBox3\StarBox3\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\StarBox3\StarBox3\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\StarBox3\StarBox3\bin\roslyn\System.AppContext.dll
+D:\StarBox3\StarBox3\bin\roslyn\System.Collections.Immutable.dll
+D:\StarBox3\StarBox3\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\StarBox3\StarBox3\bin\roslyn\System.IO.FileSystem.dll
+D:\StarBox3\StarBox3\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\StarBox3\StarBox3\bin\roslyn\System.Reflection.Metadata.dll
+D:\StarBox3\StarBox3\bin\roslyn\vbc.exe
+D:\StarBox3\StarBox3\bin\roslyn\vbc.exe.config
+D:\StarBox3\StarBox3\bin\roslyn\vbc.rsp
+D:\StarBox3\StarBox3\bin\roslyn\VBCSCompiler.exe
+D:\StarBox3\StarBox3\bin\roslyn\VBCSCompiler.exe.config
+D:\StarBox3\StarBox3\bin\StarBox3.dll.config
+D:\StarBox3\StarBox3\bin\StarBox3.dll
+D:\StarBox3\StarBox3\bin\StarBox3.pdb
+D:\StarBox3\StarBox3\bin\Antlr3.Runtime.dll
+D:\StarBox3\StarBox3\bin\EntityFramework.dll
+D:\StarBox3\StarBox3\bin\EntityFramework.SqlServer.dll
+D:\StarBox3\StarBox3\bin\Microsoft.AI.Agent.Intercept.dll
+D:\StarBox3\StarBox3\bin\Microsoft.AI.DependencyCollector.dll
+D:\StarBox3\StarBox3\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\StarBox3\StarBox3\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\StarBox3\StarBox3\bin\Microsoft.AI.Web.dll
+D:\StarBox3\StarBox3\bin\Microsoft.AI.WindowsServer.dll
+D:\StarBox3\StarBox3\bin\Microsoft.ApplicationInsights.dll
+D:\StarBox3\StarBox3\bin\Microsoft.AspNet.Identity.Core.dll
+D:\StarBox3\StarBox3\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\StarBox3\StarBox3\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\StarBox3\StarBox3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\StarBox3\StarBox3\bin\Microsoft.Owin.dll
+D:\StarBox3\StarBox3\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\StarBox3\StarBox3\bin\Microsoft.Owin.Security.Cookies.dll
+D:\StarBox3\StarBox3\bin\Microsoft.Owin.Security.dll
+D:\StarBox3\StarBox3\bin\Microsoft.Owin.Security.Facebook.dll
+D:\StarBox3\StarBox3\bin\Microsoft.Owin.Security.Google.dll
+D:\StarBox3\StarBox3\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\StarBox3\StarBox3\bin\Microsoft.Owin.Security.OAuth.dll
+D:\StarBox3\StarBox3\bin\Microsoft.Owin.Security.Twitter.dll
+D:\StarBox3\StarBox3\bin\Microsoft.Web.Infrastructure.dll
+D:\StarBox3\StarBox3\bin\Newtonsoft.Json.dll
+D:\StarBox3\StarBox3\bin\Owin.dll
+D:\StarBox3\StarBox3\bin\System.Web.Helpers.dll
+D:\StarBox3\StarBox3\bin\System.Web.Mvc.dll
+D:\StarBox3\StarBox3\bin\System.Web.Optimization.dll
+D:\StarBox3\StarBox3\bin\System.Web.Razor.dll
+D:\StarBox3\StarBox3\bin\System.Web.WebPages.Deployment.dll
+D:\StarBox3\StarBox3\bin\System.Web.WebPages.dll
+D:\StarBox3\StarBox3\bin\System.Web.WebPages.Razor.dll
+D:\StarBox3\StarBox3\bin\WebGrease.dll
+D:\StarBox3\StarBox3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\StarBox3\StarBox3\bin\System.Web.Helpers.xml
+D:\StarBox3\StarBox3\bin\System.Web.Mvc.xml
+D:\StarBox3\StarBox3\bin\System.Web.Optimization.xml
+D:\StarBox3\StarBox3\bin\System.Web.Razor.xml
+D:\StarBox3\StarBox3\bin\System.Web.WebPages.xml
+D:\StarBox3\StarBox3\bin\System.Web.WebPages.Deployment.xml
+D:\StarBox3\StarBox3\bin\System.Web.WebPages.Razor.xml
+D:\StarBox3\StarBox3\bin\Antlr3.Runtime.pdb
+D:\StarBox3\StarBox3\bin\Newtonsoft.Json.xml
+D:\StarBox3\StarBox3\bin\EntityFramework.xml
+D:\StarBox3\StarBox3\bin\EntityFramework.SqlServer.xml
+D:\StarBox3\StarBox3\bin\Microsoft.AspNet.Identity.Core.xml
+D:\StarBox3\StarBox3\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\StarBox3\StarBox3\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\StarBox3\StarBox3\bin\Microsoft.Owin.xml
+D:\StarBox3\StarBox3\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\StarBox3\StarBox3\bin\Microsoft.Owin.Security.xml
+D:\StarBox3\StarBox3\bin\Microsoft.Owin.Security.Facebook.xml
+D:\StarBox3\StarBox3\bin\Microsoft.Owin.Security.Cookies.xml
+D:\StarBox3\StarBox3\bin\Microsoft.Owin.Security.OAuth.xml
+D:\StarBox3\StarBox3\bin\Microsoft.Owin.Security.Google.xml
+D:\StarBox3\StarBox3\bin\Microsoft.Owin.Security.Twitter.xml
+D:\StarBox3\StarBox3\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\StarBox3\StarBox3\bin\Microsoft.ApplicationInsights.xml
+D:\StarBox3\StarBox3\bin\Microsoft.AI.DependencyCollector.xml
+D:\StarBox3\StarBox3\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\StarBox3\StarBox3\bin\Microsoft.AI.WindowsServer.xml
+D:\StarBox3\StarBox3\bin\Microsoft.AI.Web.xml
+D:\StarBox3\StarBox3\obj\Debug\StarBox3.Migrations.InitialModel.resources
+D:\StarBox3\StarBox3\obj\Debug\StarBox3.Migrations.AddIsSubscribedToCustomer.resources
+D:\StarBox3\StarBox3\obj\Debug\StarBox3.Migrations.AddMembershipType.resources
+D:\StarBox3\StarBox3\obj\Debug\StarBox3.Migrations.PopulateMembershipTypes.resources
+D:\StarBox3\StarBox3\obj\Debug\StarBox3.Migrations.ApplyAnnotationsToCustomerName.resources
+D:\StarBox3\StarBox3\obj\Debug\StarBox3.Migrations.AddNameToMembershipType.resources
+D:\StarBox3\StarBox3\obj\Debug\StarBox3.Migrations.SetNameOfMemberShipTypes.resources
+D:\StarBox3\StarBox3\obj\Debug\StarBox3.Migrations.SetNameInMembershipTypeToRequired.resources
+D:\StarBox3\StarBox3\obj\Debug\StarBox3.Migrations.AddedBirthdateToCustomer.resources
+D:\StarBox3\StarBox3\obj\Debug\StarBox3.Migrations.AddMovie.resources
+D:\StarBox3\StarBox3\obj\Debug\StarBox3.Migrations.Genre.resources
+D:\StarBox3\StarBox3\obj\Debug\StarBox3.csproj.GenerateResource.Cache
+D:\StarBox3\StarBox3\obj\Debug\StarBox3.dll
+D:\StarBox3\StarBox3\obj\Debug\StarBox3.pdb
+D:\StarBox3\StarBox3\obj\Debug\StarBox3.csprojResolveAssemblyReference.cache
+D:\StarBox3\StarBox3\bin\AutoMapper.dll
+D:\StarBox3\StarBox3\bin\System.Net.Http.Formatting.dll
+D:\StarBox3\StarBox3\bin\System.Web.Http.dll
+D:\StarBox3\StarBox3\bin\System.Web.Http.WebHost.dll
+D:\StarBox3\StarBox3\bin\AutoMapper.xml
+D:\StarBox3\StarBox3\bin\System.Net.Http.Formatting.xml
+D:\StarBox3\StarBox3\bin\System.Web.Http.xml
+D:\StarBox3\StarBox3\bin\System.Web.Http.WebHost.xml
